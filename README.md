@@ -21,7 +21,7 @@
 ### 💬 About me:
 - 🔬 I'm a Data Scientist, focussing on microscopy images.
 - 🍔 I'm currently employed at Mosa Meat, developing cultured meat!
-- 🐍 Python is my main programming language, to be honest, I don't know much else 😅.
+- 🐍 Python is my main programming language.
 - 💻 I'm very familiar with packages including (but not limited to) Docker, Numpy, Pandas, Pillow, Pyclesperanto, Scikit-image and Streamlit. Most likely I'm forgetting some 😉. 
 - 🪄Next to this, I'm currently exploring the world of Machine Learning using Keras, very cool to see what is possible there!
 - 🚴Not github related at all, but man I love cycling!
